@@ -8,9 +8,10 @@ Cubic Biezer Easing
 They can be represented uniquely by a set of 4 points, as shown in the animation below:
 
 ![CubicBeizerAnimation](http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bezier_3_big.gif/240px-Bezier_3_big.gif	)
+
 Courtesy: *[Wikipedia](http://en.wikipedia.org	)*
 
-Wikipedia: *[Cubic Beizer](http://en.wikipedia.org/wiki/B%C3%A9zier_curve#Cubic_B.C3.A9zier_curves	)*
+More info on Wikipedia: *[Cubic Beizer](http://en.wikipedia.org/wiki/B%C3%A9zier_curve#Cubic_B.C3.A9zier_curves	)*
 
 ###What Does This Application Do?
 ---------------------------------
