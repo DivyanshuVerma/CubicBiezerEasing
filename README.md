@@ -11,6 +11,12 @@ Wikipedia: *[Cubic Beizer](http://en.wikipedia.org/wiki/B%C3%A9zier_curve#Cubic_
 
 The __Tests_AdvancedBeizerPlot__ class provides the complete GUI to alter control points for the Cubic Beizer. It also gives control over animation timing and frames per second.
 
+
+###Screenshot:
+--------------
+
+![MainScreen](screenshots/main.png)
+
 ###How Do I Run It?
 ----------------
 
