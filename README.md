@@ -11,7 +11,7 @@ They can be represented uniquely by a set of 4 points, as shown in the animation
 
 Courtesy: *[Wikipedia](http://en.wikipedia.org	)*
 
-The points P1 and P2 are termed as control points. In CSS, there are 'cubic-bezier()' class of timing-functions.
+The points P1 and P2 are termed as control points. In CSS, there are `cubic-bezier()` class of timing-functions.
 They take two points P1 and P2. The points P0 and P3 are fixed as (0,0) and (1,1).
 Various values of P1 and P2 gives rise to different curves, therefore different timing functions.
 When plotted on a graph, the abscissa represents the ratio of time, while the ordinates represent the ratio of output range, or progression of the animation.
