@@ -14,8 +14,8 @@ The __Tests_AdvancedBeizerPlot__ class provides the complete GUI to alter contro
 How Do I Run It?
 ----------------
 
-	* __Import__ the project into Eclipse, or,
-	* Compile and Run Tests_AdvancedBeizerPlot. *Make sure the jar files in the lib folder are on the classpath.*
+* __Import__ the project into Eclipse, or,
+* Compile and Run Tests_AdvancedBeizerPlot. *Make sure the jar files in the lib folder are on the classpath.*
 
 Author
 ------
