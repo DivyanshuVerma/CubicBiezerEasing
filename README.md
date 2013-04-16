@@ -1,7 +1,7 @@
 Cubic Biezer Easing
 ===============
 
-What is a Cubic Beizer?
+###What is a Cubic Beizer?
 -----------------------
 
 Wikipedia: *[Cubic Beizer](http://en.wikipedia.org/wiki/B%C3%A9zier_curve#Cubic_B.C3.A9zier_curves	)*
