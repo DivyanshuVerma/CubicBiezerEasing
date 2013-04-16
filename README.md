@@ -17,6 +17,10 @@ How Do I Run It?
 * __Import__ the project into Eclipse, or,
 * Compile and Run Tests_AdvancedBeizerPlot. *Make sure the jar files in the lib folder are on the classpath.*
 
+Attribution
+-----------
+* Many thanks to people behind [JFreeChart](http://www.jfree.org/jfreechart/	)
+
 Author
 ------
 
